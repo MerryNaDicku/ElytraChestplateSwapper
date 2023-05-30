@@ -1,4 +1,4 @@
-package com.saphjyr.ElytraChestplateSwapper;
+package com.Merry.TotemSwaper;
 
 import org.lwjgl.glfw.GLFW;
 
